@@ -1,5 +1,5 @@
 # ArduinoBoilerCntrolPanel
-Simple boiler controller using an arduino
+Simple boiler controller using an arduino for presentation project
 
 Main Components:
 - LCD Display 2x16; 
